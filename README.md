@@ -13,4 +13,5 @@ Basic infrastructure for working with digital representations of manuscripts:
 
 Advanced editing work:
 
-- to be determined
+- First half of *Iliad* 16 in the Venetus A
+
