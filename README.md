@@ -8,7 +8,8 @@ Editing HMT material at Furman University
 
 Basic infrastructure for working with digital representations of manuscripts:
 
-- to be determined
+- creating a model of the page sequences of Escorialensis 509 (Ω.i.12)
+- creating a navigational index of *Iliad* lines in Ω.i.12
 
 
 Advanced editing work:
