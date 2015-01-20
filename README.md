@@ -26,7 +26,17 @@ Advanced editing work:
 
 ## Useful Links ##
 
+### General ###
 - Basic manuscript browser [here](http://www.homermultitext.org/hmt-digital/)
 - Advanced look up material by urn [here](http://www.homermultitext.org/hmt-digital/svcforms)
 - Links to guides for editors [here](http://www.homermultitext.org/for-editors.html)
 
+### XML Editing Specific ###
+- List of personal names [here](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtnames.csv)
+- List of place names [here](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtplaces.csv)
+- Submit new named entities [here](https://github.com/homermultitext/hmt-authlists/issues). Select 'new issue'. Reference closed issues for proper format. You will receive a notification when your issue has been processed.
+- 2013 Editors guide [here](http://shot.holycross.edu/chssummer2013/housestyle/)
+
+### Writing ###
+- Handy dandy markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Good markdown editor for Macs [here](http://www.ashokgelal.com/lightpaper-for-mac/)
