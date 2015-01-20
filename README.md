@@ -15,9 +15,9 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 - Teams:
-    -   A:
-    -   B:
-    -   C:
+    -   A: Kimbell, Sami, Patrick, Ellie
+    -   B: Shannon, Sam, Janey-Capers
+    -   C: Mao, Sadie, Elias
 
 - First half of *Iliad* 16 in the Venetus A:  folios 206 recto - 213 verso (inclusive)
 - Team A: folio 206 recto
