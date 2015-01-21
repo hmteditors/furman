@@ -30,6 +30,8 @@ Advanced editing work:
 - Basic manuscript browser [here](http://www.homermultitext.org/hmt-digital/)
 - Advanced look up material by urn [here](http://www.homermultitext.org/hmt-digital/svcforms)
 - Links to guides for editors [here](http://www.homermultitext.org/for-editors.html)
+- Specific guides on each step of the total editing process [here](http://www.homermultitext.org/summer2014/totalediting.html)
+- Notes on hardcopy editing with example [here](http://www.homermultitext.org/summer2014/editing/hardCopyEditing.html) 
 
 ### XML Editing Specific ###
 - List of personal names [here](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtnames.csv)
