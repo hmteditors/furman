@@ -313,11 +313,11 @@ urn:cite:op.16A.34,urn:cts:greekLit:tlg0012.tlg001.msA:16.9@κ[3],"urn:cite:hmt:
 urn:cite:op.16A.35,urn:cts:greekLit:tlg0012.tlg001.msA:16.9@ε[6],"urn:cite:hmt:vaimg.VA206RN-0377@0.575,0.3651,0.015,0.021",
 urn:cite:op.16A.36,urn:cts:greekLit:tlg0012.tlg001.msA:16.9@ι[2],"urn:cite:hmt:vaimg.VA206RN-0377@0.575,0.3651,0.015,0.021",
 urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@δ,"urn:cite:hmt:vaimg.VA206RN-0377@0.188,0.3824,0.022,0.0195",
-urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@α,"urn:cite:hmt:vaimg.VA206RN-0377@0.207,0.3899,0.022,0.0098"
-urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@κ,"urn:cite:hmt:vaimg.VA206RN-0377@0.226,0.3854,0.018,0.015"
-urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@ρ,"urn:cite:hmt:vaimg.VA206RN-0377@0.24,0.3892,0.014,0.0143"
-urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@υ,"urn:cite:hmt:vaimg.VA206RN-0377@0.252,0.3899,0.012,0.0105"
-urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@ο,"urn:cite:hmt:vaimg.VA206RN-0377@0.263,0.3802,0.014,0.0248"
+urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@α,"urn:cite:hmt:vaimg.VA206RN-0377@0.207,0.3899,0.022,0.0098",
+urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@κ,"urn:cite:hmt:vaimg.VA206RN-0377@0.226,0.3854,0.018,0.015",
+urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@ρ,"urn:cite:hmt:vaimg.VA206RN-0377@0.24,0.3892,0.014,0.0143",
+urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@υ,"urn:cite:hmt:vaimg.VA206RN-0377@0.252,0.3899,0.012,0.0105",
+urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@ο,"urn:cite:hmt:vaimg.VA206RN-0377@0.263,0.3802,0.014,0.0248",
 urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@ε,"urn:cite:hmt:vaimg.VA206RN-0377@0.275,0.3824,0.014,0.0218", Is supposed to be an epsilon but does not look like other epsilons throughout the manuscript
 urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@σ,"urn:cite:hmt:vaimg.VA206RN-0377@0.283,0.3877,0.019,0.0135"
 urn:cite:op.16A.1,urn:cts:greekLit:tlg0012.tlg001.msA:16.10@σ,"urn:cite:hmt:vaimg.VA206RN-0377@0.283,0.3877,0.019,0.0135"
