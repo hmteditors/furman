@@ -29,6 +29,28 @@
                             <p/>
                         </div>
                     </div>
+                    <div n="B2" type="scholion">
+                        <div type="lemma">
+                            <p>οἱ αστερίσκοι ὅτι <choice><abbr>υπ</abbr><expan>ὑπό</expan></choice> νέστορος οὐκ ορθῶς λεγονται</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:16.B2</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="B3" type="scholion">
+                        <div type="lemma">
+                            <p>ἀρισταρχος εἴ τίνα οἰδα δια τοῦ εῖ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg5026.msAim.hmt:16.B3</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
