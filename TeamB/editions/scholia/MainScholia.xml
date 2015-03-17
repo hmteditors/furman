@@ -51,6 +51,18 @@
                             <p/>
                         </div>
                     </div>
+                    <div n="B4" type="scholion">
+                        <div type="lemma">
+                            <p>αἰναρέτη τίς σευ ἄλλος: ὅτι γράφουσιν αἴν᾽ ἀρετῆς καὶ ἐκφέρουσι κατα τὸ <choice><abbr>περισώμ</abbr><expan>περισώμενον</expan></choice>. ἵν᾽ ἦι πρότερον αἰνέ. εἶτα προσ τὰ κάτω ἀρετῆς τί σευ ἀλλός ονήσεται, <choice><abbr>πιθανώτερ</abbr><expan>πιθανώτερον</expan></choice> δὲ
+                            συνθετώς αἰναρέτη ἐπι κακῶ τὴν ἀρετὴν ἔχων</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg5026.msA.hmt:16.B4</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
