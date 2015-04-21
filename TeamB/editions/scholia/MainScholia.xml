@@ -93,6 +93,21 @@
                             </p>
                         </div>
                     </div>
+                    <div n="B6" type="scholion">
+                        <div type="lemma">
+                            <p>οὐδε θέτις μήτηρ γλαυκὴ δὲ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:16.34</p>
+                        </div>
+                        <div type="comment">
+                            <p>
+                                νῦν ἅπαξ τὴν θάλασσαν ἐπιθετικῶς γλαυκὴν εἶπεν τοῦτο δε φησι δια το τῆς θαλάσσης ἐπικίνδυνον καὶ
+                                ἀνηλεὲς καὶ τῶν πετρῶν τὸ σκ<add place="supralinear">λ</add>ηρὸν· ὀ δὲ ἡσίοδος καὶ χωρὶς τοῦ 
+                                θάλασσα φησι καί τοις οι γλαυκὴν δυσπέμφελον
+                            </p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
