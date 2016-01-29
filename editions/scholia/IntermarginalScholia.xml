@@ -37,7 +37,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msAim.hmt:16.44-16.45</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι <choice><abbr>υπ</abbr><expan>ὑπό</expan></choice> νέστορος οὐκ ορθῶς λεγονται</p>
+                            <p>ὅτι <choice><abbr>υπ</abbr><expan>ὑπό</expan></choice>
+                            <persName n="urn:cite:hmt:pers.pers117">νέστορος</persName> οὐκ ορθῶς λεγονται</p>
                         </div>
                     </div>
                     <div n="B3" type="scholion">
