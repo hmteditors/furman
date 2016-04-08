@@ -26,7 +26,41 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἔν τι <unclear>οει</unclear> τῶν υπο μνη ματα ἐπος ἔκλυον</p>
+                        </div>
+                    </div>
+                    <div n="C2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχῦ διασται τέον κατέχουσι</p>
+                        </div>
+                    </div>
+                    <div n="C3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ <rs type="waw">οι</rs> <w>αρ<add place="supralinear">θ</rs>ε<add place="supralinear">τ</rs>ες</w>
+                          ἐγκλιτικὸν δὶο ἐν τῆ συντάξει ἐγκλιτεόν</p>
+                        </div>
+                    </div>
+                    <div n="C4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρο ζυτο νη τέον ὅτι</p>
                         </div>
                     </div>
                 </body>
