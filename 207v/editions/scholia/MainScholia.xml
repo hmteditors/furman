@@ -59,9 +59,15 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
                         </div>
                         <div type="comment">
-                            <p>ἐιστουπίσω ἀπο <w>καταστήσ<add place="supralinear">υ</add>σιν</w> ἀποδώσουσεν. δαιτι
+                            <p>εἰς τὸὐπίσω <w>ἀποκαταστήσ<add place="supralinear">υ</add>σιν</w> ἀποδώσουσεν. δια τὶ
                             ὁ <persName n="urn:cite:hmt:pers.pers1"><choice><abbr>αχι</abbr><expan>ἀχιλλεὺς<expan></choice></persName>
-                            ἐπι καθαιρέσει διο μήδους μέμη ηται καὶ
+                            ἐπι καθαρέσει <persName n="urn:cite:hmt:pers.pers215">διομήδους</persName> μέμνηται καὶ
+                            <persName n="urn:cite:hmt:pers.pers22">αγαμέμνονοσ</persName> καὶ οὐδεμος ἄλλου λεγών
+                            οὐ γὰρ τυδείδεω <persName n="urn:cite:hmt:pers.pers215">διομήδεοσ</persName> οὐδέπω
+                            ἀτρείδεω ῥητεὸν δὲ, ὅτι <persName n="urn:cite:hmt:pers.pers22">ἀγαμέμνων</persName> μὲν εἰκότος
+                            --------
+                            αὐτοῦ καὶ <persName n="urn:cite:hmt:pers.pers215">διομήδης</persName> δὲ διαλόγοις ὡριστικοις οἲς εἰς
+                            αυτὸν ἀπερρίφει μετα τὴν πρεσύγαν     
 
                               ⁑</p>
                         </div>
