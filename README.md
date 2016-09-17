@@ -4,7 +4,7 @@ furman
 Editing HMT material at Furman University
 
 
-## Work for Spring, 2015 ##
+## Work for Fall, 2016 ##
 
 Basic infrastructure for working with digital representations of manuscripts:
 
@@ -15,14 +15,14 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 - Teams:
-    -   A: Kimbell, Sami, Patrick, Ellie
-    -   B: Shannon, Sam, Janey-Capers
-    -   C: Mao, Sadie, Elias
+    -   A:
+    -   B: 
+
 
 - First half of *Iliad* 16 in the Venetus A:  folios 206 recto - 213 verso (inclusive)
 - Team A: folio 206 recto
-- Team B: folio 206 verso
-- Team C: folio 207 recto
+- Team B: folio 207 recto
+
 
 ## Useful Links ##
 
