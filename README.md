@@ -42,3 +42,8 @@ Advanced editing work:
 ### Writing ###
 - Handy dandy markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Good markdown editor for Macs [here](http://www.ashokgelal.com/lightpaper-for-mac/)
+
+### Setting Up the Computer###
+- Greek Keyboard [here](http://www.benjaminblonder.org/sophokeys/)
+- XML editing Atom [here](https://atom.io/) or Oxygen [here](https://www.oxygenxml.com/)
+- Virtual machine guide [here](http://homermultitext.github.io/hmt-docs/vm/install/) 
