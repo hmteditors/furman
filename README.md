@@ -14,14 +14,14 @@ Basic infrastructure for working with digital representations of manuscripts:
 
 Advanced editing work:
 
-- Teams:
-    -   A:
-    -   B: 
+- Teams and current tasks:
+    -   2016A: Paleo 208r
+    -   2016B: visual inventory of 208r
+    -   2016C: Hard copy editing of 206r
+    -   Previous members (Janey Capers, Emmett, and Gunner)- continue last year's folio
 
 
 - First half of *Iliad* 16 in the Venetus A:  folios 206 recto - 213 verso (inclusive)
-- Team A: folio 206 recto
-- Team B: folio 207 recto
 
 
 ## Useful Links ##
