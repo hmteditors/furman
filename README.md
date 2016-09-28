@@ -15,9 +15,9 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 - Teams and current tasks:
-    -   2016A: Paleo 208r
-    -   2016B: visual inventory of 208r
-    -   2016C: Hard copy editing of 206r
+    -   2016A (Jackson, James and Hannah): Paleo 208r
+    -   2016B (Sadie and Chrissy): visual inventory of 208r
+    -   2016C (Bryan and Mary): Hard copy editing of 206r
     -   Previous members (Janey Capers, Emmett, and Gunner)- continue last year's folio
 
 
