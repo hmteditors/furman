@@ -15,9 +15,9 @@ Basic infrastructure for working with digital representations of manuscripts:
 Advanced editing work:
 
 - Teams and current tasks:
-    -   2016A (Jackson, James and Hannah): Paleo 208r next: Hard copy editing
-    -   2016B (Sadie and Chrissy): visual inventory of 208r next: Interior scholia
-    -   2016C (Bryan and Mary): Hard copy editing of 206r next: XML editing
+    -   2016A (Jackson, James and Hannah): Paleo 208r next: Hard copy editing Iliad text
+    -   2016B (Sadie and Chrissy): Interior scholia of 208r next: intermarginal scholia
+    -   2016C (Bryan and Mary): XML editing of 206r Iliad text next: main scholia
     -   Previous members (Janey Capers, Emmett, and Gunner)- continue last year's folio
 
 
@@ -32,6 +32,7 @@ Advanced editing work:
 - Links to guides for editors [here](https://github.com/homermultitext/hmt-editors-guide/)
 - Specific guides on each step of the total editing process [here](http://www.homermultitext.org/summer2014/totalediting.html)
 - Notes on hardcopy editing with example [here](http://www.homermultitext.org/summer2014/editing/hardCopyEditing.html) 
+- Hard to type (so just copy them) symbols/characters [here](http://homermultitext.github.io/hmt-docs/tips/pasteboard/)
 
 ### XML Editing Specific ###
 - List of personal names [here](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtnames.csv)
