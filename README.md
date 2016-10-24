@@ -27,6 +27,7 @@ Advanced editing work:
 ## Useful Links ##
 
 ### General ###
+- Paleography Reference [here](http://homermultitext.github.io/hmt-docs/palguide.pdf)
 - Basic manuscript browser [here](http://www.homermultitext.org/hmt-digital/)
 - Advanced look up material by urn [here](http://www.homermultitext.org/hmt-digital/svcforms)
 - Links to guides for editors [here](https://github.com/homermultitext/hmt-editors-guide/)
