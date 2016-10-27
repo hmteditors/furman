@@ -17,7 +17,7 @@ Advanced editing work:
 - Teams and current tasks:
     -   2016A (Jackson, James and Hannah): Paleo 208r next: Hard copy editing Iliad text
     -   2016B (Brandon and Chrissy): Interior scholia of 208r next: intermarginal scholia
-    -   2016C (Bryan and Mary): XML editing of 206r Iliad text next: main scholia
+    -   2016C (Bryan and Mary): main scholia 206r next: intermarginal scholia
     -   Previous members (Janey Capers, Emmett, and Gunner)- continue last year's folio
 
 
