@@ -4,9 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Main Shcolia</title>
-                <author>YOUR NAME HERE</author>
-                <author>YOUR NAME HERE</author>
-                <author>YOUR NAME HERE</author>
+                <editor>Emmett Baumgarten</editor>
+                <editor>Janey Capers Newland</editor>
+                <editor>Elias Eells</editor>
+                <editor>Dr. Christopher Blackwell</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -63,7 +64,7 @@
                             <p>ἀψ απο νάσσωσιν</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.86</p>
                         </div>
                         <div type="comment">
                             <p>εἰς τὸ ὐπίσω <w>ἀποκαταστήσ<add place="supralinear">υ</add>σιν</w>
@@ -79,30 +80,6 @@
                                     >ἀγαμέμνων</persName> μὲν εἰκότος -------- αὐτοῦ καὶ <persName
                                     n="urn:cite:hmt:pers.pers215">διομήδης</persName> δὲ διαλόγοις
                                 ὡριστικοις οἲς εἰς αυτὸν ἀπερρίφει μετα τὴν πρεσύγαν ⁑</p>
-                        </div>
-                    </div>
-                    <div n="207v4" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
-                        </div>
-                        <div type="comment">
-                            <p> μὴ σύ γ‘ ἀνευθεν ἐμεῖο · ὅτι Ζηνόδοτος τοῦτον καὶ τὸν ἑξῆς ἦρκε.
-                                πεποίηκε δὲ οὔτως μὴ σύ γ‘ ἀγαλλόμενος πολέμῳ καὶ δηϊοτήτι ἵνα
-                                ἑπιβάλλῃ ἡ συνέπεια ἀναγκαῖοι δὲ εἰσὶν, σκοπὸς γὰρ τῷ Ἀχιλλεῖ μη
-                                ἀτιμωθῆναι τούτου κατευημερήσαντος. ⁑</p>
-                        </div>
-                    </div>
-                    <div n="207v5" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
-                        </div>
-                        <div type="comment">
                             <p>εἰς τοὐπίσω ἀποκαταστήσουσιν ἀποδωσουσιν. διὰ τί ὁ ἀχιλλευς ἐπὶ
                                 καθαιρέσει Διομήδους μέμνηται καὶ ἀγαμέμνονος καὶ οὐδενος ἄλλου
                                 λέγων οὐ γὰρ Τυδείδεω Διομήδεος οὐδέ πω Ἀτρείδεω· ῥητεον δὲ ὅτι
@@ -111,9 +88,37 @@
                                 “μὴ ὄφελες λισσεσθαι ἀμύμονα πηλείονα.“ ⁑</p>
                         </div>
                     </div>
+                    <div n="207v4" type="scholion">
+                        <div type="lemma">
+                            <p>μὴ σύ γ‘ ἀνευθεν ἐμεῖο·<p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.89</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι Ζηνόδοτος τοῦτον καὶ τὸν ἑξῆς ἦρκε.
+                                πεποίηκε δὲ οὔτως μὴ σύ γ‘ ἀγαλλόμενος πολέμῳ καὶ δηϊοτήτι ἵνα
+                                ἑπιβάλλῃ ἡ συνέπεια ἀναγκαῖοι δὲ εἰσὶν, σκοπὸς γὰρ τῷ Ἀχιλλεῖ μη
+                                ἀτιμωθῆναι τούτου κατευημερήσαντος. ⁑</p>
+                        </div>
+                    </div>
+                    <div n="207v5" type="scholion">
+                        <div type="lemma">
+                            <p>ατιμότερον δέ με θήσεις<p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.90</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ ἀσκαλωνιτὸς ἀπόλυτον καὶ μονοσύλλαβον ἐξεδέξατο τῆν μέν ἀντωνυμίαν.
+                               διὸ καὶ ἐγκλιτικῶς ἀνέγνω. οὐ γὰρ προς έτορον πρόσωπον ἐστιν αὐτῷ ἡ
+                               *διαστο*
+                               </p>
+                        </div>
+                    </div>
                     <div n="207v6" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
@@ -124,7 +129,7 @@
                     </div>
                     <div n="207v7" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
@@ -135,7 +140,7 @@
                     </div>
                     <div n="207v8" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
