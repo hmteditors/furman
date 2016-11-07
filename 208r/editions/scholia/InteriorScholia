@@ -22,7 +22,7 @@
                 <body>
                     <div n="3000" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.105</p>
@@ -31,7 +31,30 @@
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>ἀρίσ</abbr><expan>Ἀρίσταρχοσ</expan><choice></persName>
                              Δια τοῦ <rs type="waw">καὶ</rs>
                              <choice><abbr><w>συνδες<add place="supralinear">μ</add></w></abbr><expan>συνδέσμου</expan></choice>
-                             <rs type="waw">καὶ φάλαπα</rs> Γπαφῶ παντῶσ βραχὺ Διεστελλεν ἐπι τὸ <rs type="waw">αιεὶ</rs></p>
+                             <rs type="waw">καὶ φάλαπα</rs> Γπαφῶ παντῶσ βραχὺ Διεστελλεν ἐπι τὸ <rs type="waw">αιεὶ</rs> ⁑ </p>
+                        </div>
+                  </div>
+                    <div n="3001" type="scholion">
+                        <div type="lemma">
+                            <p><p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.119</p>
+                        </div>
+                        <div type="comment">
+                            <p>συν απτεον μέχρι τοῦ <rs type="waw">θεῶν</rs> δύϝαται δὲ <choice><abbr>στίζεσθ</abbr><expan>στίζεσθαι</expan></choice>
+                            καὶ ἐπι τὰ αμύμονα ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="3002" type="scholion">
+                        <div type="lemma">
+                            <p><p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.124</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸσ </p>
                         </div>
                     </div>
                 </body>
