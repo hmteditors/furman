@@ -48,10 +48,12 @@
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.4</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἀιγίλιπος ὑψηλῆς. ἧς καὶ αῖγες ἀπολιμπάνονται δια τὸ ὔψος ἐλοφρὰ δὲ ἔχουσι καὶ νευρόδη
+                            τὰ σκέλη αἶγες. ὁι δὲ τῆς μηδὲν φυοίσης κατ <persName n="urn:cite:hmt:pers.pers81">ἀργείους</persName>.
+                            ὃ γὰρ ἀποτρώγει αἲξ· ἀσπορον ἀυτὸ ποιεῖ οὶ δὲ καθύγρου καὶ λιπαινούσης τὰς <choice><sic>>αἶγάς</sic><corr>αἶγας</corr></choice>⁑</p>
                         </div>
                     </div>
                 </body>
