@@ -28,7 +28,7 @@ Advanced editing work:
 
 ### General ###
 - Paleography Reference [here](http://homermultitext.github.io/hmt-docs/palguide.pdf)
-   -- Also, [here](https://github.com/hmteditors/furman/blob/master/comstudies-mfp%2540furman.edu_20161110_151917.pdf) and [here](https://github.com/hmteditors/furman/blob/master/comstudies-mfp%2540furman.edu_20161110_152026.pdf)
+   - Also, [here](https://github.com/hmteditors/furman/blob/master/comstudies-mfp%2540furman.edu_20161110_151917.pdf) and [here](https://github.com/hmteditors/furman/blob/master/comstudies-mfp%2540furman.edu_20161110_152026.pdf)
 - Basic manuscript browser [here](http://www.homermultitext.org/hmt-digital/)
 - Advanced look up material by urn [here](http://www.homermultitext.org/hmt-digital/svcforms)
 - Links to guides for editors [here](https://github.com/homermultitext/hmt-editors-guide/)
