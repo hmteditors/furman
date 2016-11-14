@@ -54,7 +54,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.124</p>
                         </div>
                         <div type="comment">
-                            <p>πρὸσ </p>
+                            <p>πρὸσ τὴν φράσιν <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>ουτ</abbr><expan>οὕτωσ
+                            </expan></choice> εἴρηκε <rs type="waw">τὴν μὲν πρύμνην</rs> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice>
+                            <rs type="waw">τῆσ μὲν πρύνης</rs></p>
                         </div>
                     </div>
                 </body>
