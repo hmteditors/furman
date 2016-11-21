@@ -31,18 +31,20 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.105</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τινὲς γράφουσι τύπτετο δ' αἰεὶ προείρηκε δὲ βαλλομένην καὶ βάλλοντες.</p>
+                            <p>ὅτι τινὲς γράφουσι τύπτετο δ' αἰεὶ προείρηκε δὲ βαλλομένην καὶ βάλλοντες.
+                            τὸ δὲ βαλεῖν ἐστιν ἐκ χειρὸς τύψοαι⁑</p>
                         </div>
                     </div>
                     <div n="208r2" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>βάλλετο δ' αἰεὶ καπ φάλαρ'</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.105</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>γράφεσθαι φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16">ἀπίσταπχος</persName>
+                            </p>
                         </div>
                     </div>
                     <div n="208r3" type="scholion">
