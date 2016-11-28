@@ -43,19 +43,21 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.105</p>
                         </div>
                         <div type="comment">
-                            <p>γράφεσθαι φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16">ἀπίσταπχος</persName>
-                            </p>
+                            <p>γράφεσθαι φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16">ἀρίσταρχος</persName>
+                               καὶ <rs type="waw">τύπτετο δ' αἰεὶ καπφάλαρ' εὐ ποίητα</rs> δια τοῦ <rs type="waw">π</rs> οὐκ
+                               εῦ. βούλεται γὰρ λεγειν καὶ τὰ φάλαρα <rs type="waw">καναχὴν εἶχυεν</rs>⁑</p>
                         </div>
                     </div>
                     <div n="208r3" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>καπφάλαρ' εὐ ποίηθ'</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.106</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἡ διπλῆ ὅτι ἔν τισι γράφεται <rs type="waw">καπφάλαρα</rs> ὑπερβατὸν δέ ἐστὶ· δεινὴν δὲ
+                               <rs type="waw">καναχὴν ἡ πήληξ ἔχε</rs> καὶ τά φάλαρα ἐβάλετο συνεχῶς·</p>
                         </div>
                     </div>
                     <div n="208r4" type="scholion">
